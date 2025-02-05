@@ -1,0 +1,30 @@
+{
+    "name": "Aikido | Marguerittes",
+    "short_name": "Framer",
+    "description": "A fullscreen Framer prototype as PWA",
+    "start_url": "https://fullscreen-prototype.framer.website",
+    "scope": "https://fullscreen-prototype.framer.website",
+    "display": "fullscreen",
+    "orientation": "any",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "icons": [{
+        "src": "https://framerusercontent.com/images/l8xYBNx4GH5B0i987yubofZUKJ4.png",
+        "sizes": "64x64",
+        "type": "image/png",
+        "purpose": "any"
+    },
+    {
+        "src": "https://framerusercontent.com/images/l8xYBNx4GH5B0i987yubofZUKJ4.png",
+        "sizes": "144x144",
+        "type": "image/png",
+        "purpose": "any"
+    },
+    {
+        "src": "https://framerusercontent.com/images/l8xYBNx4GH5B0i987yubofZUKJ4.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+    }
+    ]
+}

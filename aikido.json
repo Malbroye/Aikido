@@ -1,0 +1,30 @@
+{
+    "name": "Aikido | Marguerittes",
+    "short_name": "Aikido | Marguerittes",
+    "description": "Application Aikido | Marguerittes",
+    "start_url": "https://fullscreen-prototype.framer.website",
+    "scope": "https://fullscreen-prototype.framer.website",
+    "display": "fullscreen",
+    "orientation": "any",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "icons": [{
+        "src": "https://i.ibb.co/TM7dcdvb/iconmobile.png",
+        "sizes": "64x64",
+        "type": "image/png",
+        "purpose": "any"
+    },
+    {
+        "src": "https://i.ibb.co/TM7dcdvb/iconmobile.png",
+        "sizes": "144x144",
+        "type": "image/png",
+        "purpose": "any"
+    },
+    {
+        "src": "https://i.ibb.co/TM7dcdvb/iconmobile.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+    }
+    ]
+}

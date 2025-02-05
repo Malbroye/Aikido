@@ -1,7 +1,7 @@
 {
     "name": "Aikido | Marguerittes",
-    "short_name": "Framer",
-    "description": "A fullscreen Framer prototype as PWA",
+    "short_name": "Aikido | Marguerittes",
+    "description": "Application Aikido | Marguerittes",
     "start_url": "https://fullscreen-prototype.framer.website",
     "scope": "https://fullscreen-prototype.framer.website",
     "display": "fullscreen",
